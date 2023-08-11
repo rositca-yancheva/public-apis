@@ -1,5 +1,5 @@
 {
-"count": 1439,
+"count": 1442,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -71,6 +71,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.fishwatch.gov/developers",
+        "Category": "Animals"
+    },
+    {
+        "API": "Foxes",
+        "Description": "Random fox images with multiple different tags",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://foxes.cool",
         "Category": "Animals"
     },
     {
@@ -3446,6 +3455,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://screenshotone.com/",
+        "Category": "Development"
+    },
+    {
+        "API": "SearchApi",
+        "Description": "Real-Time Google SERP API",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://www.searchapi.io/",
         "Category": "Development"
     },
     {
@@ -8756,6 +8774,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dev.socrata.com/",
+        "Category": "Open Data"
+    },
+    {
+        "API": "Sofiaplan",
+        "Description": "Access to urban research data for the Bulgarian capital Sofia",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://sofiaplan.bg/api/",
         "Category": "Open Data"
     },
     {
